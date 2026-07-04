@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/flaviotomazft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:ftomaz2030@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -36,6 +37,4 @@ Idealizo e conduzo o negócio e toda a sua presença digital há mais de 4 anos.
 
 **🧮 Calculadora de Pisos (API)** · [Repositório](https://github.com/ftomaz5/calculadora-pisos-api)
 
-API REST em **Python (FastAPI)** que dimensiona material de revestimento — caixas, pallets,
-peças e custo — a partir das medidas do ambiente. Inclui **testes automatizados (pytest)**,
-**Docker
+API REST em **P
