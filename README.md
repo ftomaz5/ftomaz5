@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/flaviotomazft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:ftomaz2030@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -21,13 +22,13 @@ Uso este perfil para registrar minha evolução: cada projeto aqui é uma etapa 
 - 🌱 **Aprendendo:** Python, análise de dados e Machine Learning
 - 🧩 **Objetivo:** atuar como desenvolvedor de sistemas e, a médio prazo, como engenheiro de IA
 - 🏢 **Empreendedor:** fundador e proprietário da **FT Pisos** ([www.ftpisos.com](https://www.ftpisos.com)) há mais de 4 anos
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/) · ftomaz2030@icloud.com
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/) · [Instagram](https://www.instagram.com/flaviotomazft) · ftomaz2030@icloud.com
 
 ---
 
 ### 💼 Projetos & Experiência
 
-**🛒 FT Pisos — Fundador e Proprietário** · [www.ftpisos.com](https://www.ftpisos.com) · +4 anos de atuação
+**🛒 FT Pisos — Fundador e Proprietário** · [www.ftpisos.com](https://www.ftpisos.com) · [Instagram](https://www.instagram.com/ftpisos) · +4 anos de atuação
 
 E-commerce/marketplace de pisos e revestimentos premium. A plataforma reúne catálogo
 organizado por linhas (Mármore, Madeira, Urban Stone e mais), lista de orçamento, painel
