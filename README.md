@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ftomaz2030@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Uso este perfil para registrar minha evolução: cada projeto aqui é uma etapa 
 - 🎯 **Foco atual:** fundamentos de programação, Python e primeiros projetos de IA
 - 🌱 **Aprendendo:** Python, análise de dados e Machine Learning
 - 🧩 **Objetivo:** atuar como desenvolvedor de sistemas e, a médio prazo, como engenheiro de IA
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) · SEU-EMAIL@exemplo.com
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-tomaz-alves-de-abreu-590116204/) · ftomaz2030@icloud.com
 
 ---
 
