@@ -43,13 +43,4 @@ Uso este perfil para registrar minha evolução: cada projeto aqui é uma etapa 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ftomaz5&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftomaz5&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 <p align="center"><i>Perfil em construção contínua — voltando com projetos novos a cada etapa dos estudos. 🚧</i></p>
